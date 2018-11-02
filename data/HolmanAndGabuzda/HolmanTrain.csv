@@ -1,0 +1,79 @@
+Publication,Patient,Sequence Count,Neurocognitive Diagnosis,Disease Status,ART Treatment,CD4 Count,Viral Load (brain) copies/10e6 cells,Viral Load (plasma) copies/10e6 cells,Viral Load (lymphoid) copies/10e6 cells,Tissue Source,Year of Death
+"Gatanaga, 1999 [1]",subject 4,6,HAD: severity not specified,AIDS (deceased),AZT,5,,,,,
+"Lamers, 2009 [2]",DY,89,HAD: severe,AIDS (deceased),yes,,,7.00E+06,,University of California at San Francisco AIDS and Cancer Resource,
+"Lamers, 2009 [2]",GA,52,HAD: severe,AIDS (deceased),yes,400,,,,University of California at San Francisco AIDS and Cancer Resource,
+"Lamers, 2009 [2]",CX,116,HAD: severity not specified,AIDS (deceased),unknown,,,,,University of California at San Francisco AIDS and Cancer Resource,
+"Li, 1991 [3]",YU,2,HAD: severe,AIDS (deceased),,,,,,,
+"Liu, 2000 [4]",546,10,HAD: mild,AIDS (deceased),"AZT, indinavir, lamivudine, and abacavir",,,3500,,Multicenter AIDS Cohort Study (MACS),
+"McCrossan, 2006 [5]",NA159,8,None,pre-symptomatic HIV (deceased),none,240,16,,56,Edinburgh MRC HIV Brain and Tissue Bank,1992
+"McCrossan, 2006 [5]",NA178,4,None,pre-symptomatic HIV (deceased),none,342,1,,3,Edinburgh MRC HIV Brain and Tissue Bank,1993
+"McCrossan, 2006 [5]",NA200,7,None,pre-symptomatic HIV (deceased),none,418,33,,29,Edinburgh MRC HIV Brain and Tissue Bank,1994
+"McCrossan, 2006 [5]",NA218,5,None,pre-symptomatic HIV (deceased),none,824,21,,1050,Edinburgh MRC HIV Brain and Tissue Bank,1994
+"McCrossan, 2006 [5]",NA225,6,None,pre-symptomatic HIV (deceased),none,247,1,,639,Edinburgh MRC HIV Brain and Tissue Bank,1995
+"McCrossan, 2006 [5]",NA227,20,None,pre-symptomatic HIV (deceased),none,245,58,,421,Edinburgh MRC HIV Brain and Tissue Bank,1995
+"McCrossan, 2006 [5]",NA234(1),9,None,pre-symptomatic HIV (deceased),none,246,11,,726,Edinburgh MRC HIV Brain and Tissue Bank,1995
+"McCrossan, 2006 [5]",NA237,12,None,pre-symptomatic HIV (deceased),none,0,4,,5244,Edinburgh MRC HIV Brain and Tissue Bank,1995
+"McCrossan, 2006 [5]",NA240,4,None,pre-symptomatic HIV (deceased),none,496,2,,39,Edinburgh MRC HIV Brain and Tissue Bank,1995
+"McCrossan, 2006 [5]",NA273,7,None,pre-symptomatic HIV (deceased),none,257,1,,28,Edinburgh MRC HIV Brain and Tissue Bank,1997
+"McCrossan, 2006 [5]",NA274,16,None,pre-symptomatic HIV (deceased),none,0,4,,1220,Edinburgh MRC HIV Brain and Tissue Bank,1997
+"McCrossan, 2006 [5]",NA279,4,None,pre-symptomatic HIV (deceased),none,268,1,,101,Edinburgh MRC HIV Brain and Tissue Bank,1997
+"McCrossan, 2006 [5]",NA285,7,None,pre-symptomatic HIV (deceased),none,630,2,,14,Edinburgh MRC HIV Brain and Tissue Bank,1998
+"McCrossan, 2006 [5]",NA286,2,None,pre-symptomatic HIV (deceased),none,167,1,,335,Edinburgh MRC HIV Brain and Tissue Bank,1998
+"McCrossan, 2006 [5]",NA305,5,None,pre-symptomatic HIV (deceased),none,229,3,,9,Edinburgh MRC HIV Brain and Tissue Bank,1999
+"Mefford, 2008 [6]",MACS1,5,HAD: severe,AIDS (deceased),none,2,2018,,2527,Multicenter AIDS Cohort Study (MACS),1996
+"Monken, 1995 [7]",BWB,39,HAD: severity not specified,AIDS (deceased),,,,,,,
+"Morris, 1999 [8]",NA128,7,None,AIDS (deceased),"AZT, ddC",4,,,,Edinburgh MRC HIV Brain and Tissue Bank,1996
+"Morris, 1999 [8]",NA173,7,None,AIDS (deceased),AZT,1,,,,Edinburgh MRC HIV Brain and Tissue Bank,1996
+"Morris, 1999 [8]",NA234(2),34,None,AIDS (deceased),AZT,30,,,,Edinburgh MRC HIV Brain and Tissue Bank,1994
+"Ohagen, 2003 [9]",A,5,None,AIDS (living),,,,,,,
+"Ohagen, 2003 [9]",B,6,None,AIDS (living),,,,,,,
+"Ohagen, 2003 [9]",C,5,None,AIDS (living),,,,,,,
+"Ohagen, 2003 [9]",D,4,None,AIDS (living),,,,,,,
+"Peters, 2004 [10]",NA20(2),3,HAD: mild,AIDS (deceased),AZT,4,,,,Edinburgh MRC HIV Brain and Tissue Bank,1993
+"Peters, 2004 [10]",NA353,2,HAD: mild,AIDS (deceased),AZT,2,200,,,Edinburgh MRC HIV Brain and Tissue Bank,1992
+"Peters, 2004 [10]",NA176,2,HAD: severity not specified,AIDS (deceased),AZT,20,,,,Edinburgh MRC HIV Brain and Tissue Bank,1993
+"Power, 1994 [11]",patient 19,1,HAD: mild,AIDS (deceased),,,,,,Brain Bank at Johns Hopkins University,
+"Power, 1994 [11]",patient 9,1,HAD: mild,AIDS (deceased),,,,,,Brain Bank at Johns Hopkins University,
+"Power, 1994 [11]",patient 20,1,HAD: moderate,AIDS (deceased),,,,,,Brain Bank at Johns Hopkins University,
+"Power, 1994 [11]",patient 34,1,HAD: moderate,AIDS (deceased),,,,,,Brain Bank at Johns Hopkins University,
+"Power, 1994 [11]",patient 12,1,HAD: severe,AIDS (deceased),,,,,,Brain Bank at Johns Hopkins University,
+"Power, 1994 [11]",patient 15,1,HAD: severe,AIDS (deceased),,,,,,Brain Bank at Johns Hopkins University,
+"Power, 1994 [11]",patient 2,1,HAD: severe,AIDS (deceased),,,,,,Brain Bank at Johns Hopkins University,
+"Power, 1994 [11]",patient 26,1,HAD: severe,AIDS (deceased),,,,,,Brain Bank at Johns Hopkins University,
+"Power, 1994 [11]",patient 1,1,None,AIDS (deceased),,,,,,Brain Bank at Johns Hopkins University,
+"Power, 1994 [11]",patient 10,1,None,AIDS (deceased),,,,,,Brain Bank at Johns Hopkins University,
+"Power, 1994 [11]",patient 14,1,None,AIDS (deceased),,,,,,Brain Bank at Johns Hopkins University,
+"Power, 1994 [11]",patient 17,1,None,AIDS (deceased),,,,,,Brain Bank at Johns Hopkins University,
+"Power, 1994 [11]",patient 36,1,None,AIDS (deceased),,,,,,Brain Bank at Johns Hopkins University,
+"Power, 1994 [11]",patient 48,1,None,AIDS (deceased),,,,,,Brain Bank at Johns Hopkins University,
+"Power, 1994 [11]",patient 49,1,None,AIDS (deceased),,,,,,Brain Bank at Johns Hopkins University,
+"Salemi, 2005 [12]",HADpatient,57,HAD: severe,AIDS (deceased),,,,,,University of California at San Francisco AIDS and Cancer Resource,
+"Shah, 2006 [13]",1509,3,HAD: moderate,AIDS (deceased),,,,,,National NeuroAIDS Tissue Consortium: National Neurological AIDS Bank (NNAB),
+"Shah, 2006 [13]",1791,1,HAD: moderate,AIDS (deceased),,,,,,National NeuroAIDS Tissue Consortium: National Neurological AIDS Bank (NNAB),
+"Shah, 2006 [13]",2020,4,HAD: moderate,AIDS (deceased),,,,,,National NeuroAIDS Tissue Consortium: National Neurological AIDS Bank (NNAB),
+"Shah, 2006 [13]",2057,5,HAD: moderate,AIDS (deceased),,,,,,National NeuroAIDS Tissue Consortium: National Neurological AIDS Bank (NNAB),
+"Shah, 2006 [13]",2434,2,HAD: moderate,AIDS (deceased),,,,,,National NeuroAIDS Tissue Consortium: National Neurological AIDS Bank (NNAB),
+"Shah, 2006 [13]",G10,2,HAD: severity not specified,AIDS (deceased),"3TC, ABC, D4T, DDI, EFV, IDV, NFV, ZDV",43,,1843,,National NeuroAIDS Tissue Consortium: Texas NeuroAIDS Research Center (TNRC),1999
+"Shah, 2006 [13]",H11,1,None,AIDS (deceased),,360,,433715,,National NeuroAIDS Tissue Consortium: Texas NeuroAIDS Research Center (TNRC),1999
+"Shapshak, 1999 [14]",144,41,HAD: severity not specified,AIDS (deceased),,,,,,,
+"Shapshak, 1999 [14]",222,14,HAD: severity not specified,AIDS (deceased),,,,,,,
+"Smit, 2001 [15]",LD,6,HAD: severe,AIDS (deceased),"AZT, ddI",40,,,,"Coroners Court, Glebe and St. Vincent's Hospital, Sidney, Australia",1994
+"Smit, 2001 [15]",ND,5,None,AIDS (deceased),"AZT, ddI",,,,,"Coroners Court, Glebe and St. Vincent's Hospital, Sidney, Australia",1995
+"Thomas, 2007 [16]",MACS2,8,HAD: severity not specified,AIDS (deceased),AZT,52,1234,194190,5562,Multicenter AIDS Cohort Study (MACS),1993
+"Thomas, 2007 [16]",MACS3,8,HAD: severity not specified,AIDS (deceased),none,95,658,50343,100841,Multicenter AIDS Cohort Study (MACS),1994
+"Thomas, 2007 [16]",NA21_UK1,32,HAD: severity not specified,AIDS (deceased),"AZT, ddC",87,48173,,1444,Edinburgh MRC HIV Brain and Tissue Bank,1997
+"Thomas, 2007 [16]",UK7,8,HAD: severity not specified,AIDS (deceased),AZT (1yr),90,27826,,301,Edinburgh MRC HIV Brain and Tissue Bank,
+unpublished [17],UK6,5,HAD: severity not specified,AIDS (deceased),none current (prior AZT and DDI),54,830,,2909,Edinburgh MRC HIV Brain and Tissue Bank,
+unpublished [17],MACS13,5,None,AIDS (deceased),"lamivudine, Saquinavir, Nevirapine, Ritonavir (boosted)",331,2748,90,,Multicenter AIDS Cohort Study (MACS),1998
+unpublished [17],MACS15,5,None,AIDS (deceased),"D4T,lamivudine, nevirapine",164,3318,20545,,Multicenter AIDS Cohort Study (MACS),2000
+unpublished [17],MACS8,4,None,AIDS (deceased),,449,6961,2147,,Multicenter AIDS Cohort Study (MACS),1997
+"Wang, 2001 [18]",NA118_p5,14,HAD: severity not specified,AIDS (deceased),AZT,56,,,,Edinburgh MRC HIV Brain and Tissue Bank,1992
+"Wang, 2001 [18]",NA246_p4,12,HAD: severity not specified,AIDS (deceased),"AZT, ddI",8,,,,Edinburgh MRC HIV Brain and Tissue Bank,1991
+"Wang, 2001 [18]",NA284,10,HAD: severity not specified,AIDS (deceased),AZT,8,,,,Edinburgh MRC HIV Brain and Tissue Bank,1993
+"Wang, 2001 [18]",NA369,11,HAD: severity not specified,AIDS (deceased),,23,,,,Edinburgh MRC HIV Brain and Tissue Bank,
+"Wang, 2001 [18]",NA38,16,HAD: severity not specified,AIDS (deceased),D4T,3,,,,Edinburgh MRC HIV Brain and Tissue Bank,1994
+"Wang, 2001 [18]",NA446,11,HAD: severity not specified,AIDS (deceased),"AZT, ddI",137,,,,Edinburgh MRC HIV Brain and Tissue Bank,1996
+"Wang, 2001 [18]",NA116,13,None,AIDS (deceased),,4,,,,Edinburgh MRC HIV Brain and Tissue Bank,1994
+"Wang, 2001 [18]",NA20(1),10,None,AIDS (deceased),D4T,8,,,,Edinburgh MRC HIV Brain and Tissue Bank,1997
+"Wang, 2001 [18]",NA25_UK2,10,None,AIDS (deceased),none,297,,,,Edinburgh MRC HIV Brain and Tissue Bank,1998
+"Wang, 2001 [18]",NA420_p6,12,None,AIDS (deceased),"ddI, AZT",7,,,,Edinburgh MRC HIV Brain and Tissue Bank,1991

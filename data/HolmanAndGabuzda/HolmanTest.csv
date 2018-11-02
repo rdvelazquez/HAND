@@ -1,0 +1,15 @@
+Publication,Patient,Sequence Count,Neurocognitive Diagnosis,ART Treatment,CD4 Count,Viral Load,Year of Death
+"Gonzalez-Perez, 2012 [1]",6568,6,HAD,"3TC, ABC, D4T, DDC, DDI, EFV, IDV, NFV, NVP, ZDV",77,>750000,2001
+"Gonzalez-Perez, 2012 [1]",7766,25,HAD,"3TC, ABC, EFV, D4T, DDI, IDV, NFV, ZDV",43,1843,1999
+"Gonzalez-Perez, 2012 [1]",CA110,16,HAD,none,21,198957,1999
+"Brown, 2011 [2]",E21,17,HAD,AZT,120,,1991
+"Power, 1994 [3]",59,2,HAD,,,,
+"Power, 1994 [3]",60,2,HAD,,,,
+"Power, 1994 [3]",62,2,HAD,,,,
+"Power, 1994 [3]",61,2,HAD,,,,
+"Power, 1994 [3]",47,2,HAD,,,,
+"Power, 1994 [3]",55,1,HAD,,,,
+,,,,,,,
+"1. Gonzalez-Perez MP, O'Connell OJ, Lin R, Sullivan WM, Bell J, et al. (2012) Independent evolution of macrophage-tropism and increased charge between HIV-1 R5 envelopes present in brain and immune tissue. Retrovirology 9: 20. doi:10.1186/1742-4690-9-20.",,,,,,,
+"2. Brown RJP, Peters PJ, Caron C, Gonzalez-Perez MP, Stones L, et al. (2011) Intercompartmental recombination of HIV-1 contributes to env intrahost diversity and modulates viral tropism and sensitivity to entry inhibitors. J Virol 85: 6024–6037. doi:10.1128/JVI.00131-11.",,,,,,,
+"3. Power C, McArthur JC, Johnson RT, Griffin DE, Glass JD, et al. (1994) Demented and nondemented patients with AIDS differ in brain-derived human immunodeficiency virus type 1 envelope sequences. J Virol 68: 4643–4649.",,,,,,,
