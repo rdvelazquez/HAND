@@ -1,5 +1,7 @@
 .DS_Store
 ScratchWork/
+.ipynb_checkpoints/
+data/.ipynb_checkpoints/
 
 # Files larger than 100 MB (github doesn't like them)
 data/comprehensive_combined_data.csv
